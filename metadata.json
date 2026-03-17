@@ -1,0 +1,5 @@
+{
+  "name": "绘梦",
+  "description": "Upload PDFs to upscale and restore pages using Google Gemini Nano Banana Pro (Gemini 3 Pro Image). Download as restored PDF or PPTX.",
+  "requestFramePermissions": []
+}
