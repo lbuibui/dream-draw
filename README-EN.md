@@ -52,7 +52,7 @@
  
 No installation required, simply click the link below to get started:
  
-**👉 [Open App: huimeng.zeabur.app](https://huimeng.zeabur.app//)**
+**👉 [Open App: huimeng.zeabur.app](https://huimeng.zeabur.app/)**
  
  ### 🔑 Configure API Key
 On your first visit, click the **"Select API Key"** button in the top right corner:
