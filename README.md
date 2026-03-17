@@ -55,7 +55,7 @@
  
 无需安装，点击下方链接即可直接使用：
  
-**👉 [点击打开: huimeng.zeabur.app](https://huimeng.zeabur.app/)**
+**👉 [点击打开: dream-draw.zeabur.app](https://dream-draw.zeabur.app/)**
  
  ### 🔑 配置 API Key
 首次打开时，点击右上角的 **"配置 API"** 按钮：
